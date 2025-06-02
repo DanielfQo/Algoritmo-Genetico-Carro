@@ -1,0 +1,14 @@
+﻿astroid==3.2.2
+colorama==0.4.6
+greenlet==3.0.3
+lazy-object-proxy==1.10.0
+mccabe==0.7.0
+msgpack==1.0.7
+parso==0.8.3
+pygame>=2.1.0
+pynvim==0.5.0
+six==1.16.0
+toml==0.10.2  
+wrapt==1.16.0
+neat-python==0.92  
+python-dotenv==1.0.1
